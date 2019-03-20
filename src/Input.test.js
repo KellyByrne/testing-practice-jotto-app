@@ -51,8 +51,8 @@ describe('render', () => {
     });
 });
 
-describe('update state', () => {
-    test('', () => {
+// describe('update state', () => {
+//     test('', () => {
 
-    });
-});
+//     });
+// });
